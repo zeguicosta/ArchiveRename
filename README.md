@@ -1,11 +1,6 @@
 # Renomeador de Arquivos em Massa
 
-Automatize a organização de arquivos no seu departamento de marketing com este script Python que renomeia arquivos em massa seguindo um padrão específico. Inclua a data de recebimento e uma descrição da campanha para facilitar a busca e gestão dos arquivos.
-
-
-## Descrição
-
-No ambiente dinâmico do marketing, a organização eficiente de arquivos é essencial para a produtividade e eficácia das campanhas publicitárias. Este script Python foi desenvolvido para automatizar o processo de renomeação de arquivos, garantindo que todos sigam um padrão consistente que inclui a data de criação e a descrição da campanha. Isso facilita a busca, o arquivamento e a gestão de documentos e imagens relacionados às campanhas.
+Automatize a organização de arquivos no departamento de marketing com este script Python que renomeia arquivos em massa seguindo um padrão específico.
 
 
 ## Funcionalidades
